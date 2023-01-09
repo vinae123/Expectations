@@ -1,0 +1,39 @@
+.header
+{
+    background-image: url(img/frontpage-new.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg-dark-30
+{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+button{
+    color: rgb(243, 152, 6);
+}
+.trans-5
+{
+    transition: 0.5s;
+}
+.heading-u:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 150px;
+    background: #27C00A;
+    margin: 10px auto 40px;
+}
+iframe{
+    width: 30vw;
+    height: 30vh;
+}
+a{
+    color: rgb(245, 245, 245);
+    font-weight: 400;
+    text-decoration: none;
+}
+
+video{
+    padding-bottom: 25px;
+}
