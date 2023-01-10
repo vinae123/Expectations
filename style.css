@@ -1,3 +1,6 @@
+body{
+    width: max-content;
+}
 .header
 {
     background-image: url(img/frontpage-new.png);
@@ -35,7 +38,7 @@ a{
 }
 
 video{
-    width: 100%;
+    width: 70%;
     height: auto;
     padding-bottom: 25px;
 }
